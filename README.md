@@ -1,3 +1,9 @@
+lo que habia erroneo en el codigo  es un error de sintaxis con el comando replace all. 
+otro error es que tenemos que escribir el println dentro del loop para que se imprima para cada caso, si no no funciona.
+También había que cambiar y añadir word.append("Y") f y t en cada caso y cambiar el 3 de nextInt() por un 1
+
+
+
 # iebis_swdev_exam_debugging
 Somebody from administration wanted to create a random phrase generators and created the code that you can find in Main.java for this purpose.
 
